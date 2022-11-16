@@ -1,0 +1,14 @@
+
+  img {
+    height: auto;
+    max-width: 100vw;
+  }
+
+  .alert-text {
+    color: rgb(0, 0, 0);
+  }
+
+  * {
+    font-family: "Cascadia Code", sans-serif;
+  }
+  
